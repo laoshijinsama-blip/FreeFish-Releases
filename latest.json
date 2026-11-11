@@ -1,0 +1,23 @@
+{
+  "schema": "freefish-update/v1",
+  "channel": "stable",
+  "version": "0.8.6",
+  "url": "https://github.com/laoshijinsama-blip/FreeFish-Releases/releases/download/v0.8.6/FreeFish-Setup-0.8.6.exe",
+  "mirror": "https://github.com/laoshijinsama-blip/FreeFish-Releases/releases/download/v0.8.6/FreeFish-Setup-0.8.6.exe",
+  "blockmap": "https://github.com/laoshijinsama-blip/FreeFish-Releases/releases/download/v0.8.6/FreeFish-Setup-0.8.6.exe.blockmap",
+  "sha256": "bad3c375e9f490bafccc9d72588d1aa7b506f857b9c5716f498272a56518ea17",
+  "size": 181033047,
+  "notes": "FreeFish 0.8.6 raw GitHub latest feed",
+  "publishedAt": "2026-11-11T17:28:28.211Z",
+  "keyId": "52a352a0cbba028c",
+  "delegation": {
+    "schema": "freefish-release-delegation/v1",
+    "keyId": "52a352a0cbba028c",
+    "releasePublicKey": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAu+KqlR3ho7yHLGDtq/gpKO9yev2XP9A0wR4ITUOfJD8=\n-----END PUBLIC KEY-----\n",
+    "issuedAt": "2026-11-09T01:52:20.850Z",
+    "validFrom": "2026-11-09T01:52:20.850Z",
+    "validUntil": "2027-02-07T01:52:20.850Z",
+    "signature": "9N/DwMzZGO1kEoTFTX8X2cqdRlMgvMxh7ACskwrn1wsEoHzjRKG8rqpnulxphm+AUq2wdoT/EF6vo6PndykhAw=="
+  },
+  "signature": "enz50dp6EBpMm/f9Zarg/FaoWuxqgb1ODUXGIIj+2YvC4Sd+gmH5uySCNnaWLyA38ASqZ41M/ckCIb5zWQboBA=="
+}
