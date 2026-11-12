@@ -1,14 +1,14 @@
 {
   "schema": "freefish-update/v1",
   "channel": "stable",
-  "version": "0.8.6",
-  "url": "https://github.com/laoshijinsama-blip/FreeFish-Releases/releases/download/v0.8.6/FreeFish-Setup-0.8.6.exe",
-  "mirror": "https://github.com/laoshijinsama-blip/FreeFish-Releases/releases/download/v0.8.6/FreeFish-Setup-0.8.6.exe",
-  "blockmap": "https://github.com/laoshijinsama-blip/FreeFish-Releases/releases/download/v0.8.6/FreeFish-Setup-0.8.6.exe.blockmap",
-  "sha256": "bad3c375e9f490bafccc9d72588d1aa7b506f857b9c5716f498272a56518ea17",
-  "size": 181033047,
-  "notes": "FreeFish 0.8.6 GitHub release",
-  "publishedAt": "2026-11-12T01:49:05.794Z",
+  "version": "0.8.7",
+  "url": "https://github.com/laoshijinsama-blip/FreeFish-Releases/releases/download/v0.8.7/FreeFish-Setup-0.8.7.exe",
+  "mirror": "https://github.com/laoshijinsama-blip/FreeFish-Releases/releases/download/v0.8.7/FreeFish-Setup-0.8.7.exe",
+  "blockmap": "https://github.com/laoshijinsama-blip/FreeFish-Releases/releases/download/v0.8.7/FreeFish-Setup-0.8.7.exe.blockmap",
+  "sha256": "50d0d1076b59662e8fd56a0a81bc243c7a49511c5d473b14b2efdd85b8d770f3",
+  "size": 181033697,
+  "notes": "FreeFish 0.8.7 GitHub release",
+  "publishedAt": "2026-11-12T02:12:43.369Z",
   "keyId": "52a352a0cbba028c",
   "delegation": {
     "schema": "freefish-release-delegation/v1",
@@ -19,5 +19,5 @@
     "validUntil": "2027-02-07T01:52:20.850Z",
     "signature": "9N/DwMzZGO1kEoTFTX8X2cqdRlMgvMxh7ACskwrn1wsEoHzjRKG8rqpnulxphm+AUq2wdoT/EF6vo6PndykhAw=="
   },
-  "signature": "mriu7BC1kdKvnzfWEtU7tdabSj81tZoca1Mxvys19vcilOk7d6Uk1YYAM0supnCuIGxQacB4AOxgvMOX/qDrCw=="
+  "signature": "svZlXrl4u6RxZqXboqB9ssw39J4hqKYmmkr8iuVfPzyD/NYWF0wu9gBNxY2aN7DUAz+I0j+gD1w6aFZh2BgGDQ=="
 }
