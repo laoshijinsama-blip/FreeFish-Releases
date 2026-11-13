@@ -8,7 +8,7 @@
   "sha256": "50d0d1076b59662e8fd56a0a81bc243c7a49511c5d473b14b2efdd85b8d770f3",
   "size": 181033697,
   "notes": "FreeFish 0.8.7 GitHub release",
-  "publishedAt": "2026-11-13T03:49:18.592Z",
+  "publishedAt": "2026-11-13T04:19:14.389Z",
   "keyId": "52a352a0cbba028c",
   "delegation": {
     "schema": "freefish-release-delegation/v1",
@@ -19,5 +19,5 @@
     "validUntil": "2027-02-07T01:52:20.850Z",
     "signature": "9N/DwMzZGO1kEoTFTX8X2cqdRlMgvMxh7ACskwrn1wsEoHzjRKG8rqpnulxphm+AUq2wdoT/EF6vo6PndykhAw=="
   },
-  "signature": "5d/zd80Tf+k+jzdBQ2hPVMsxRhkWX0Am3dYuTDfM54/IY61FUyqnouV/9iyKLwaSKcPSQbNJc0oJJE3HJOxdCA=="
+  "signature": "CSO+PaGnmwL7mpMcQdT5U35dlk8FnNoBSQhpvHuI1DUXo0sdONMq2f9wOKkzyqcVkNJf7wEBccPcIiIKX51pBA=="
 }
